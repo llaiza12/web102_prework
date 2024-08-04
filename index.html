@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width">
     <link href="style.css" rel="stylesheet" type="text/css" />
+    <title>Sea Monster Crowdfunding</title>
   </head>
 
   <body>
@@ -13,6 +14,14 @@
         <h1 class="header-text">Sea Monster Crowdfunding</h1>
     </div>
 
+    <!-- navigation bar -->
+    <nav>
+        <ul class="navbar">
+            <li class="navbaroption"><a href="#stats">Stats</a></li>
+            <li class="navbaroption"><a href="#ourgames">Our Games</a></li>
+        </ul>
+    </nav>
+
     <!-- background info about company -->
     <h2>Welcome to Sea Monster!</h2>
     <div id="description-container">
@@ -20,7 +29,7 @@
     </div>
 
     <!-- top games & other interesting stats -->
-    <h2>Stats</h2>
+    <h2 id="stats">Stats</h2>
     <div class="stats-container">
         <div class="stats-card">
             <h3>Individual Contributions</h3>
@@ -48,7 +57,7 @@
     </div>
 
     <!-- list of games funded by Sea Monster -->
-    <h2>Our Games</h2>
+    <h2 id="ourgames">Our Games</h2>
     <p>Check out each of our games below!</p>
     <div id="button-container">
         <button id="unfunded-btn">Show Unfunded Only</button>
@@ -56,7 +65,7 @@
         <button id="all-btn">Show All Games</button>
     </div>
     <div id="games-container">
-
+        
     </div>
 
     <script type="module" src="index.js"></script>

@@ -5,6 +5,28 @@ body {
     background-color: #758190;
 }
 
+nav {
+    background-color: #778da9;
+    display: flex;
+    margin-left: -10px;
+    margin-right: -10px;
+    padding: 0 1% 0 1%;
+}
+
+.navbaroption {
+    display: inline;
+    padding: 16px;
+}
+
+.navbaroption a {
+    color: white;
+    text-decoration: none;
+}
+
+.navbaroption:hover {
+    background-color: darkblue;
+}
+
 #tentacles {
     width: 50px;
 }
@@ -21,6 +43,11 @@ body {
 
 .stats-container {
     display: flex;
+    align-items: baseline;
+    cursor: pointer;
+}
+.stats-container:hover {
+    box-shadow: 0 0 30px lightblue;
 }
 
 .stats-card {
