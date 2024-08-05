@@ -22,7 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-![web102preworkgif_laizanicolelabiano](https://github.com/user-attachments/assets/841ed9d3-eb99-411f-9056-c1c30ac56c0a)
+![web102preworkgifsubmission_laizanicolelabiano](https://github.com/user-attachments/assets/db5c5bca-5faa-4b97-8f54-d3a0d1e47e5a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
