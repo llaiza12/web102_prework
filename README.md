@@ -22,8 +22,7 @@ The following **optional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
-
-<img src='https://vscode.dev/github/llaiza12/web102_prework/blob/main02preworkgif_laizanicolelabiano.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![web102preworkgif_laizanicolelabiano](https://github.com/user-attachments/assets/841ed9d3-eb99-411f-9056-c1c30ac56c0a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  LICEcap
